@@ -49,13 +49,13 @@ var bio = {
     // 这里因为文件位于同一根目录下，所以图片地址不需要所有前缀
     biopic : "images/20160331_101143.jpg",
     // 这里若无空格，那么整段文字将会被作为一个单词处理=> 无分段，占据一整行
-    welcomeMessage : "blablablablablablablablablablablablab lablablablablablablablab lablablablablablablablablablab lablablablablablablablablablablablab lablablablablablablablablablab lablablablablablablablablablablab lablablablablablablablablablablabl ablablablablablablablablabl ablablablablablablab lablablablablablablablablablablab lablablablablabla",
+    welcomeMessage : "你好 我是一只 又萌 又胖的二兔纸。我的优点是 卖萌，犯二和吃多多。 我的缺点是拉不出，拉不多，不拉多和不多啦",
     contacts:{
         mobile : "015125865092",
         email : "jan100212@hotmail.com",
         location : "Taizhou(Jiangsu)"
     },
-    skills : ["java", "python", "js", "df", "df", "df", "df"]
+    skills : ["卖萌", "犯二", "吃多多", "不拉多", "拉不多", "拉不出", "不多啦"]
 };
 
 bio.display = function(){
@@ -113,7 +113,7 @@ var education = {
             name :"胖兔纸大学",
             location :"Changzhou",
             major : "卖萌",
-            degree : "Unfinished",
+            degree : "拉不多",
             date : "2011",
             url : ""
         },
