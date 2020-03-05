@@ -111,7 +111,7 @@ var education = {
     schools : [
         {
             name :"Uni-Augsburg",
-            location :"Augsburg",
+            location :"Changzhou",
             major : "Wirtschaftsmathematik",
             degree : "Unfinished",
             date : "2012",
