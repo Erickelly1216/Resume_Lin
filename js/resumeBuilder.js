@@ -111,7 +111,7 @@ var education = {
     schools : [
         {
             name :"Uni-Augsburg",
-            location :"Changzhou",
+            location :"Taizhou(Jiangsu)",
             major : "Wirtschaftsmathematik",
             degree : "Unfinished",
             date : "2012",
@@ -119,7 +119,7 @@ var education = {
         },
         {
             name :"Uni-DuE",
-            location :"Essen",
+            location :"Taizhou(Jiangsu)",
             major : "Wirtschaftsinformatik",
             degree : "Bachelor of Science",
             date : "2020",
