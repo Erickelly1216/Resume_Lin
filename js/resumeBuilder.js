@@ -53,7 +53,7 @@ var bio = {
     contacts:{
         mobile : "015125865092",
         email : "jan100212@hotmail.com",
-        location : "泰州"
+        location : "Taizhou"
     },
     skills : ["java", "python", "js", "df", "df", "df", "df"]
 };
