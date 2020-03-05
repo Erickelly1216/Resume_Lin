@@ -43,7 +43,7 @@ var work = {
 
 
 var bio = {
-    name : "Qianling Lin",
+    name : "林",
     role: "",
     // biopic : "/Users/eric/Documents/studium/ws17:18/Udacity/JS/Javascript基础/project_Ma/images/fry.jpg",
     // 这里因为文件位于同一根目录下，所以图片地址不需要所有前缀
