@@ -110,11 +110,11 @@ bio.display();
 var education = {
     schools : [
         {
-            name :"Uni-Augsburg",
+            name :"胖兔纸大学",
             location :"Changzhou",
-            major : "Wirtschaftsmathematik",
+            major : "卖萌",
             degree : "Unfinished",
-            date : "2012",
+            date : "2011",
             url : ""
         },
         {
