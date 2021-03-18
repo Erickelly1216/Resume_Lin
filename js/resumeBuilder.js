@@ -1,6 +1,5 @@
 
 
-
 var work = {
   "jobs": [
 /*
@@ -43,7 +42,7 @@ var bio = {
     name : "Qianling Lin",
     born : ["TaiZhou", [32.4585613, 119.9181228], "Born"],
     role: "Business Informatics",
-    biopic : "images/744e2f77.jpg",//"images/20160331_101143.jpg"
+    biopic : "images/20160331_101143.jpg",
     welcomeMessage : "blablablablablablablablablablablablab lablablablablablablablab lablablablablablablablablablab lablablablablablablablablablablablab lablablablablablablablablablab lablablablablablablablablablablab lablablablablablablablablablablabl ablablablablablablablablabl ablablablablablablab lablablablablablablablablablablab lablablablablabla",
     contacts:{
         mobile : "0123456789",
