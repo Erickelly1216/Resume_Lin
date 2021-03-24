@@ -52,6 +52,7 @@ var d_education = "Ausbildugen";
 var d_places = "Wo ich leben und studiert";
 var d_skills_h3 = 'Fähigkeiten auf einen Blick';
 var d_contact = 'Kontakt';
+var d_workExperience = "Berufserfahrungen";
 
 var e_projects = "Projects";
 var e_role = "Business Informatics";
@@ -59,7 +60,7 @@ var e_education = "Education";
 var e_places = "Places I studied and lived";
 var e_skills_h3 = 'Skills at a Glance';
 var e_contact = 'Contact';
-
+var e_workExperience = 'Work Experience';
 
 
 $(document).ready(function() {
@@ -83,6 +84,8 @@ $(document).ready(function() {
       $("#t_places").html(d_places);
 
       $("#t_contact").html(d_contact);
+      
+      $("#t_workExperience").html(d_workExperience);
     }
 
     if($('#button').text()=='eng'){
@@ -98,6 +101,8 @@ $(document).ready(function() {
       $("#t_places").html(e_places);
 
       $("#t_contact").html(e_contact);
+      
+      $("#t_workExperience").html(e_workExperience);
     }
 
     s.html(s.text() == 'deu' ? 'eng' : 'deu');
